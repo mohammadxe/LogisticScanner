@@ -1,0 +1,18 @@
+{
+  "shipmentTypes": ["Ocean (FCL)", "Air Cargo", "FTL Trucking"],
+  "weight": 1000,
+  "weightUnit": "kg",
+  "volume": 10,
+  "commodity": "Electronics",
+  "hsCode": "850231",
+  "hazardous": false,
+  "temperatureControlled": true,
+  "origin": "Shanghai, China",
+  "destination": "Rotterdam, Netherlands",
+  "departureWindow": "2024-12-15",
+  "incoterms": "CIF",
+  "customsClearance": true,
+  "insurance": true,
+  "lastMileDelivery": true,
+  "warehousing": false
+}
